@@ -14,8 +14,8 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.TOKEN_WAKATIME }}
           WAKATIME_API_KEY: ${{ secrets.SECRETS_WAKATIME_API_KEY }}
-          SHOW_OS: True
-          SHOW_EDITORS: True
+          SHOW_OS: False
+          SHOW_EDITORS: False
           SHOW_LANGUAGE: True
           DEBUG_LOGGING: False
           SHOW_SHORT_INFO: False # 隐藏用户的简短有趣的事实信息
