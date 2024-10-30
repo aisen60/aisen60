@@ -1,11 +1,5 @@
-### Hi 👋
+### Hi there 👋 
 
-<div>
+![](https://github-readme-stats.vercel.app/api?username=luckyAisen&theme=default&hide_title=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckyAisen&theme=default&hide_title=true" />
-
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+![](https://komarev.com/ghpvc/?username=luckyAisen)
